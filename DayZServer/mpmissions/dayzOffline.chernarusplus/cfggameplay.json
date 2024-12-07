@@ -1,10 +1,11 @@
 {
     "version": 122,
+    "_info": "This file was generated using dayzboosterz.com gameplay generator. Visit us today @ dayzboosterz.com",
     "GeneralData": {
         "disableBaseDamage": false,
         "disableContainerDamage": true,
         "disableRespawnDialog": false,
-        "disableRespawnInUnconsciousness": false
+        "disableRespawnInUnconsciousness": true
     },
     "PlayerData": {
         "disablePersonalLight": false,
@@ -101,16 +102,16 @@
         }
     },
     "UIData": {
-        "use3DMap": true,
+        "use3DMap": false,
         "HitIndicationData": {
             "hitDirectionOverrideEnabled": false,
-            "hitDirectionBehaviour": 0,
+            "hitDirectionBehaviour": 1,
             "hitDirectionStyle": 0,
-            "hitDirectionIndicatorColorStr": "",
-            "hitDirectionMaxDuration": 0,
-            "hitDirectionBreakPointRelative": 0,
-            "hitDirectionScatter": 0,
-            "hitIndicationPostProcessEnabled": false
+            "hitDirectionIndicatorColorStr": "0xffbb0a1e",
+            "hitDirectionMaxDuration": 2,
+            "hitDirectionBreakPointRelative": 0.2,
+            "hitDirectionScatter": 10,
+            "hitIndicationPostProcessEnabled": true
         }
     },
     "MapData": {
