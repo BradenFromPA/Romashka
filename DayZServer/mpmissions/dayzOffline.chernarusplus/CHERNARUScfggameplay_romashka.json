@@ -3,7 +3,7 @@
 	"GeneralData":
 	{
 		"disableBaseDamage": false,
-		"disableContainerDamage": false,
+		"disableContainerDamage": true,
 		"disableRespawnDialog": false
 	},
     "PlayerData":
