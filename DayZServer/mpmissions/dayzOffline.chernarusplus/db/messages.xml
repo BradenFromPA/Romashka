@@ -44,4 +44,11 @@ Example messages:
     </message>
     -->
 
+    <message>
+        <deadline>720</deadline>
+        <shutdown>1</shutdown>
+        <text>Warning.</text>
+        <text>#name will restart in #tmin minutes.</text>
+    </message>
+
 </messages>
