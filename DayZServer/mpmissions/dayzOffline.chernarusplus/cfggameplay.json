@@ -44,7 +44,7 @@
     },
     "WorldsData": {
         "lightingConfig": 0,
-        "objectSpawnersArr": ["custom/Tisy-RoadBlock.json"],
+        "objectSpawnersArr": ["custom/berezinoMilitary.json"],
         "environmentMinTemps": [
             -3,
             -2,
