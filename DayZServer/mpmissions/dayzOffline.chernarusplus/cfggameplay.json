@@ -44,7 +44,7 @@
     },
     "WorldsData": {
         "lightingConfig": 0,
-        "objectSpawnersArr": [],
+        "objectSpawnersArr": ["custom/Tisy-RoadBlock.json"],
         "environmentMinTemps": [
             -3,
             -2,
